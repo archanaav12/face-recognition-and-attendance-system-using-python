@@ -10,6 +10,6 @@ A Python-based application that automates attendance tracking using real-time fa
 - User-friendly GUI interface (Tkinter or web-based)
 
 ## Tech Stack
-- **Backend:** Python
+- **Backend:** Python-flask/django
 - **Libraries:** OpenCV, face_recognition, NumPy, SQLite
-- **Frontend:** flask/Django
+- **Frontend:** Html/css/bootstrap
