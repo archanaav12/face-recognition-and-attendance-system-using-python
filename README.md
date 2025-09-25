@@ -1,2 +1,15 @@
-# face-recognition-and-attendance-system-using-python
-Face Recognition and Attendance System – A Python-based system that automates attendance using real-time face detection and recognition. Captures and identifies faces to mark attendance accurately, stores records in a database, generates reports, and provides a user-friendly interface for schools, offices, and events.
+# Face Recognition and Attendance System
+
+A Python-based application that automates attendance tracking using real-time face recognition technology. The system captures faces, recognizes them, and marks attendance accurately, eliminating manual errors.
+
+## Features
+- Real-time face detection and recognition
+- Automatic attendance marking
+- Stores student/employee details in a database
+- Generates daily/weekly/monthly attendance reports
+- User-friendly GUI interface (Tkinter or web-based)
+
+## Tech Stack
+- **Backend:** Python
+- **Libraries:** OpenCV, face_recognition, NumPy, SQLite
+- **Frontend:** flask/Django
